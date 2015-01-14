@@ -17,7 +17,7 @@ hi! ColorColumn cterm=NONE ctermbg=235 guibg=#1e2132
 hi! CursorColumn cterm=NONE ctermbg=235 guibg=#1e2132
 hi! CursorLine cterm=NONE ctermbg=235 guibg=#1e2132
 hi! Comment ctermfg=242 guifg=#c6c8d1
-hi! Constant ctermfg=140 guifg=#c6c8d1
+hi! Constant ctermfg=NONE guifg=#c6c8d1
 hi! Cursor ctermbg=252 ctermfg=234 guibg=#babbc0 guifg=#161821
 hi! CursorLineNr ctermbg=237 ctermfg=253 guibg=#2a3158 guifg=#cdd1e6
 hi! Delimiter ctermfg=234 guifg=#c6c8d1
@@ -57,7 +57,7 @@ hi! Statement ctermfg=NONE gui=NONE guifg=#c6c8d1
 hi! StatusLine cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596 term=reverse
 hi! StatusLineNC cterm=reverse ctermbg=238 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
 hi! StorageClass ctermfg=NONE guifg=#c6c8d1
-hi! String ctermfg=NONE guifg=#c6c8d1
+hi! String ctermfg=108 guifg=#c6c8d1
 hi! Structure ctermfg=NONE guifg=#c6c8d1
 hi! TabLine cterm=NONE ctermbg=245 ctermfg=234 gui=NONE guibg=#818596 guifg=#17171b
 hi! TabLineFill cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596
