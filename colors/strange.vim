@@ -17,10 +17,10 @@ hi! ColorColumn cterm=NONE ctermbg=235 guibg=#1e2132
 hi! CursorColumn cterm=NONE ctermbg=235 guibg=#1e2132
 hi! CursorLine cterm=NONE ctermbg=235 guibg=#1e2132
 hi! Comment ctermfg=242 guifg=#c6c8d1
-hi! Constant ctermfg=NONE guifg=#c6c8d1
+hi! Constant ctermfg=103 guifg=#c6c8d1
 hi! Cursor ctermbg=252 ctermfg=234 guibg=#babbc0 guifg=#161821
 hi! CursorLineNr ctermbg=237 ctermfg=253 guibg=#2a3158 guifg=#cdd1e6
-hi! Delimiter ctermfg=234 guifg=#c6c8d1
+hi! Delimiter ctermfg=236 guifg=#c6c8d1
 hi! DiffAdd ctermbg=108 ctermfg=234 guibg=#555a47 guifg=#c6c8d1
 hi! DiffChange ctermbg=66 ctermfg=234 guibg=#445861 guifg=#c6c8d1
 hi! DiffDelete ctermbg=95 ctermfg=234 guibg=#673e43 guifg=#c6c8d1
